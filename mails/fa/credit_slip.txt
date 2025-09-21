@@ -1,0 +1,15 @@
+ 
+
+{shop_url}
+
+سلام {firstname} {lastname}،
+
+شناسه سفارش {order_name} - رسید مالی
+
+یک برگه اعتبار با نام شما برای سفارش با مرجع {order_name} ایجاد شد.
+
+این رسید اعتباری را بررسی نموده و فاکتور خود را دانلود نمایید. به [رسیدهای مالی]({history_url}» target=) در حساب کاربری خود مراجعه کنید.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

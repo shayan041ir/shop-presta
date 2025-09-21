@@ -1,0 +1,19 @@
+ 
+
+{shop_url}
+
+{firstname_friend} {lastname_friend}, به ما بپیوندید!
+
+دوست شما {firstname} {lastname} می خواهد شما را به [{shop_name}]({shop_url}) دعوت کند!
+
+ما خوشحالیم که به شما پیشنهاد یک بن به ارزش {discount} را دهیم که در سفارش بعدی خود می توانید استفاده کنید. دعوت کنید و یک کد تخفیف به ارزش {discount} دریافت کنید!
+
+[ثبت نام بسیار آسان است، فقط اینجا کلیک کنید!]({link})
+
+در زما عضویت، فراموش نکنید که ایمیل دوست معرف خود را ارائه کنید: {email}.
+
+با احترام،
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

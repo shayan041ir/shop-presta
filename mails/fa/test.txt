@@ -1,0 +1,13 @@
+ 
+
+{shop_url}
+
+سلام {firstname} {lastname}،
+
+این یک ایمیل آزمایشی از فروشگاه شما است.
+
+اگر شما می‌توانید این را بخوانید، به این معنی است که آزمایش شما موفقیت آمیز بوده!
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

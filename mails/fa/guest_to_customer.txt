@@ -1,0 +1,20 @@
+ 
+
+{shop_url}
+
+سلام {firstname} {lastname}،
+
+حساب مهمان شما به یک حساب مشتری تبدیل شد
+
+تبریک، حساب مهمان شما برای {shop_name} به یک حساب مشتری تبدیل شد!
+
+آدرس ایمیل: {email}
+
+برای تنظیم کلمه‌ی عبور خود روی لینک زیر کلیک کنید:
+{url}
+
+شما می‌توانید به حساب کاربری خود در فروشگاه ما دسترسی داشته باشید: [{shop_name}]({shop_url})
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ps_checkpayment</name>
+    <displayName><![CDATA[چک]]></displayName>
+    <version><![CDATA[2.1.0]]></version>
+    <description><![CDATA[نمایش بلوک&zwnj;های جزئیات تماس برای آسان کردن پرداخت با چک در فروشگاه شما.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[آیا مطمین هستید که می خواهید جزییاتتان را حذف کنید؟]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+</module>

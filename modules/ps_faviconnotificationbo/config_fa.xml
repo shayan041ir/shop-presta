@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ps_faviconnotificationbo</name>
+    <displayName><![CDATA[آگاه&zwnj;سازی سفارش&zwnj;ها بر روی Favicon]]></displayName>
+    <version><![CDATA[2.1.3]]></version>
+    <description><![CDATA[مستقیماً روی تب مرورگر خود با هر سفارش، مشتری یا پیام جدید هشدار دریافت کنید.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[administration]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+</module>

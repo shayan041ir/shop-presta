@@ -1,0 +1,13 @@
+ 
+
+{shop_url}
+
+سلام {firstname} {lastname}،
+
+یک سفارش جدید از طرف شما ایجاد شد.
+
+لطفاً به {order_link} بروید تا پرداخت را تکمیل کنید.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

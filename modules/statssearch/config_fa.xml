@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>statssearch</name>
+    <displayName><![CDATA[جستجوی فروشگاه]]></displayName>
+    <version><![CDATA[2.0.2]]></version>
+    <description><![CDATA[آمارهای خود را غنی کنید، یک تب به منظور نمایش کلمات&zwnj;کلیدی جستجو شده توسط بازدیدکنندگاه خود اضافه کنید.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[analytics_stats]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>0</need_instance>
+</module>

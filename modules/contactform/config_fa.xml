@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>contactform</name>
+    <displayName><![CDATA[فرم تماس با ما]]></displayName>
+    <version><![CDATA[4.4.3]]></version>
+    <description><![CDATA[یک فرم تماس با ما به فروشگاه خود اضافه کنید تا مشتریان با شما در ارتباط باشند.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+</module>

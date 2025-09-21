@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ps_banner</name>
+    <displayName><![CDATA[بنر]]></displayName>
+    <version><![CDATA[2.1.2]]></version>
+    <description><![CDATA[یک بنر به صفحه اصلی فروشگاه خود اضافه کنید تا حراج&zwnj;ها و یا محصولات جدید خود را بصورت تصویری و کاربرپسند برجسته کنید.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+</module>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>pagesnotfound</name>
+    <displayName><![CDATA[صفحات ناموجود]]></displayName>
+    <version><![CDATA[2.0.3]]></version>
+    <description><![CDATA[آمارهای خود را غنی کنید، نمایش صفحه&zwnj;هایی که توسط بازدیدکننده&zwnj;های شما درخواست شده اما یافت نشده&zwnj;اند.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[administration]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>0</need_instance>
+</module>

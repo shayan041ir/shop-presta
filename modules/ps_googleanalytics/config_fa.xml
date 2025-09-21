@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ps_googleanalytics</name>
+    <displayName><![CDATA[آنالیز گوگل]]></displayName>
+    <version><![CDATA[5.0.2]]></version>
+    <description><![CDATA[معیارهای مهم واضح در رابطه با مشتریان خود با استفاده از آنالیز گوگل را به دست آورید]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[analytics_stats]]></tab>
+	<confirmUninstall><![CDATA[برای حذف گوگل آنالیز اطمینان دارید؟ تمامی داده های این ماژول از بین خواهند رفت.]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+</module>

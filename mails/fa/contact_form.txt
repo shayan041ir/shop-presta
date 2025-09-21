@@ -1,0 +1,19 @@
+ 
+
+{shop_url}
+
+سلام {firstname} {lastname}،
+
+پیام شما با موفقیت ارسال شد ، از این که برای نوشتن وقت گذاشتید از شما سپاسگزاریم!
+
+شناسه سفارش #:  {order_name}
+
+محصول:  {product_name}
+
+فایل پیوست: {attached_file}
+
+در اولین فرصت ممکن پاسخ خواهیم داد.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

@@ -1,0 +1,5 @@
+services:
+  ps_sql_excel_export.exporter.sql_request_excel_exporter:
+    class: 'PsSqlExcelExport\Exporter\SqlRequestExcelExporter'
+    arguments: []
+    public: true

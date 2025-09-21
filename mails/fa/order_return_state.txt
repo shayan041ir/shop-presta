@@ -1,0 +1,15 @@
+ 
+
+{shop_url}
+
+سلام {firstname} {lastname}،
+
+سفارش برگشتی #{id_order_return} - به‌روز رسانی
+
+ما رویه ی بازگشت کالای شما #{id_order_return} شما را به روز کردیم. وضعیت جدید: "{state_order_return}".
+
+Follow your order and download your invoice on our store, go to the [تاریخچه و جزئیات سفارش]({history_url}) section of your customer account.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>statsregistrations</name>
+    <displayName><![CDATA[حساب های مشتری]]></displayName>
+    <version><![CDATA[2.0.1]]></version>
+    <description><![CDATA[یک تب پیشرفت ثبت نام به داشبورد آمار می افزاید .]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[analytics_stats]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>0</need_instance>
+</module>

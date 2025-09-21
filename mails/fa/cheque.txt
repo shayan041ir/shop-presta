@@ -1,0 +1,29 @@
+ 
+
+{shop_url}
+
+سلام {firstname} {lastname}،
+
+از خرید شما در {shop_name} سپاس‌گزاریم!
+
+شناسه سفارش {order_name} - در انتظار پرداخت وجه با چک
+
+سفارش شما با مرجع {order_name} با موفقیت ثبت شده است و به محض تایید پرداخت ارسال خواهد شد.
+
+روش پرداخت: چک
+
+شما تصمیم گرفته اید که وجه را با چک پرداخت نمایید. اطلاعات لازم برای پرداخت با چک:
+
+مبلغ:  {total_paid}
+
+قابل پرداخت در وجه:  {check_name}
+
+لطفاً چک را به این ایمیل ارسال کنید:  {check_address_html}
+
+Follow your order and download your invoice on our store, go to the [تاریخچه و جزئیات سفارش]({history_url}) section of your customer account.
+
+اگر یک حساب کاربری مهمان دارید، می‌توانید سفارش خود را از [پیگیری مهمان]({guest_tracking_url}) پیگیری کنید.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

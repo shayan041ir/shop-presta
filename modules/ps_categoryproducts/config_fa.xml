@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ps_categoryproducts</name>
+    <displayName><![CDATA[محصولات هم&zwnj;شاخه]]></displayName>
+    <version><![CDATA[1.0.7]]></version>
+    <description><![CDATA[افزودن یک بلوک روی صفحه هر محصول که آیتم&zwnj;هایی از همان شاخه را نمایش می&zwnj;دهد.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[pricing_promotion]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+</module>

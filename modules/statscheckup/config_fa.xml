@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>statscheckup</name>
+    <displayName><![CDATA[ارزیابی فهرست محصولات]]></displayName>
+    <version><![CDATA[2.0.3]]></version>
+    <description><![CDATA[آمارهای خود را غنی کنید، کاتالوگ خود را یک بررسی سریع کنید تا تحلیل بهتری از فعالیت&zwnj;های خود داشته باشید.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[administration]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>0</need_instance>
+</module>

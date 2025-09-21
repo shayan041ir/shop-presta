@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ps_imageslider</name>
+    <displayName><![CDATA[اسلایدر تصویر]]></displayName>
+    <version><![CDATA[3.2.1]]></version>
+    <description><![CDATA[افزودن اسلایدر تصاویر به صفحه اصلی سایت برای خوش آمد گویی به بازدیدکننده&zwnj;ها به یک روش دوستانه و چشم&zwnj;نواز.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+</module>

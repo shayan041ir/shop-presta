@@ -1,0 +1,44 @@
+ 
+
+{shop_url}
+
+سلام {firstname} {lastname}،
+
+از خرید شما در {shop_name} متشکریم!
+
+جزییات سفارش
+
+سفارش: {order_name} ثبت شده در {date}
+
+روش پرداخت: {payment}
+
+مرجع	محصول	قیمت واحد	تعداد	جمع قیمت  {products_txt} {discounts_txt}
+محصول‌ها	{total_products}
+تخفیف ها	{total_discounts}
+ارسال	{total_shipping}
+همراه با کل مالیات	{total_tax_paid}
+مجموع پرداختی	{total_paid}
+
+ارسال
+
+حامل {carrier}
+
+روش پرداخت: {payment}
+
+بسته‌بندی قابل بازیافت: {recycled_packaging_label}
+
+آدرس تحویل
+
+{delivery_block_txt}
+
+آدرس صورت حساب
+
+{invoice_block_txt}
+
+Follow your order and download your invoice on our store, go to the [تاریخچه و جزئیات سفارش]({history_url}) section of your customer account.
+
+اگر یک حساب کاربری مهمان دارید، می‌توانید سفارش خود را از [پیگیری مهمان]({guest_tracking_url}) پیگیری کنید.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

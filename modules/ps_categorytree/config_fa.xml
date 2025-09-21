@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ps_categorytree</name>
+    <displayName><![CDATA[لینک درختی شاخه&zwnj;ها]]></displayName>
+    <version><![CDATA[3.0.1]]></version>
+    <description><![CDATA[به ناوبری در فروشگاه خود کمک کنید، دسته و زیر شاخه&zwnj;های فعلی را به بازدیدکنندگان نشان دهید. ]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+</module>

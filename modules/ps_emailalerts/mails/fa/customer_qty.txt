@@ -1,0 +1,15 @@
+ 
+
+{shop_url}
+
+درود،
+
+{product} موجود است.
+
+خبر خوش، این محصول دوباره موجود شد!
+
+برای بازدید از صفحه محصول و سفارش آن روی لینک زیر کلیک کنید: [{product}]({product_link})
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

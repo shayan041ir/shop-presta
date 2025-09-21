@@ -1,0 +1,17 @@
+ 
+
+{shop_url}
+
+سلام {firstname} {lastname}،
+
+پیامی از {shop_name}
+
+شما یک پیام جدید از {shop_name} مربوط به سفارش با مرجع {order_name} دریافت کرده‌اید.
+
+پیام:
+
+{message}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

@@ -1,0 +1,13 @@
+ 
+
+{shop_url}
+
+سلام {firstname} {lastname}،
+
+واردسازی تمام شد
+
+فایل {filename} با موفقیت به فروشگاه شما وارد شد.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

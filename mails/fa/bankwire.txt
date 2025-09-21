@@ -1,0 +1,33 @@
+ 
+
+{shop_url}
+
+سلام {firstname} {lastname}،
+
+از خرید شما در {shop_name} سپاس‌گزاریم!
+
+شناسه سفارش {order_name} - در انتظار پرداخت
+
+سفارش شما با مرجع {order_name} با موفقیت ثبت شده است و به محض تایید پرداخت ارسال خواهد شد.
+
+روش پرداخت: حواله بانکی
+
+شما تصمیم گرفته اید که وجه را با حواله بانکی پرداخت نمایید. اطلاعات لازم برای پرداخت وجه از طریق حواله بانکی:
+
+مبلغ:  {total_paid}
+
+دارنده حساب:  {bankwire_owner}
+
+اطلاعات حساب: {bankwire_details}
+
+آدرس بانک: {bankwire_address}
+
+لطفا مرجع سفارش خود را هنگام واریز وجه در توضیحات فیش بانکی اعلام نمائید.
+
+Follow your order and download your invoice on our store, go to the [تاریخچه و جزئیات سفارش]({history_url}) section of your customer account.
+
+اگر یک حساب کاربری مهمان دارید، می‌توانید سفارش خود را از [پیگیری مهمان]({guest_tracking_url}) پیگیری کنید.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

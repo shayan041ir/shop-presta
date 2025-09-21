@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ps_newproducts</name>
+    <displayName><![CDATA[بخش محصولات جدید]]></displayName>
+    <version><![CDATA[1.0.4]]></version>
+    <description><![CDATA[برجسته کردن محصولات جدید فروشگاه شما، نمایش یک بلوک در صفحه&zwnj;اصلی و اجازه به بازدیدکننده&zwnj;ها برای اطلاع از آخرین اخبار شما.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+</module>

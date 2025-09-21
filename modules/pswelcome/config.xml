@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>pswelcome</name>
+    <displayName><![CDATA[Welcome Message]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <author><![CDATA[web7]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <description><![CDATA[Displays a customizable welcome message for logged-in users.]]></description>
+</module>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>blockwishlist</name>
+    <displayName><![CDATA[لیست علاقمندیها]]></displayName>
+    <version><![CDATA[3.0.2]]></version>
+    <description><![CDATA[به مشتری&zwnj;ها اجازه ایجاد لیست&zwnj;علاقمندی را دهید تا محصول&zwnj;های محبوب خود را به آن اضافه کنند.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+</module>

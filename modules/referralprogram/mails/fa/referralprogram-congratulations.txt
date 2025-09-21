@@ -1,0 +1,15 @@
+ 
+
+{shop_url}
+
+تبريك!
+
+دوست دعوت شده شما {sponsored_firstname} {sponsored_lastname} اولین سفارش خود را در [{shop_name}]({shop_url}) قرار داد!
+
+ما خوشحالیم که به شما پیشنهاد یک بن به ارزش {discount_display} (بن # {discount_name}) را بدهیم که در سفارش بعدی خود می توانید استفاده کنید.
+
+با احترام،
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ps_facetedsearch</name>
+    <displayName><![CDATA[جستجوی لایه&zwnj;ای]]></displayName>
+    <version><![CDATA[4.0.0]]></version>
+    <description><![CDATA[با فیلتر کردن کاتالوگ به بازدیدکنندگان کمک کنید تا دسته بندی را تصویرسازی کرده و فروشگاه شما را به راحتی مرور کنند.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+</module>

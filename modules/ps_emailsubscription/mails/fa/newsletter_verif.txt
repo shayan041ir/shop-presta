@@ -1,0 +1,12 @@
+ 
+
+{shop_url}
+
+درود،
+
+با تشکر از عضویت شما در خبرنامه ما، لطفاً برای تایید درخواست خود روی لینک زیر کلیک کنید:
+{verif_url}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

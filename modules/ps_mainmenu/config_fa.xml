@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ps_mainmenu</name>
+    <displayName><![CDATA[منوی اصلی]]></displayName>
+    <version><![CDATA[2.3.4]]></version>
+    <description><![CDATA[کار بازدیدکننده&zwnj;های سایت خود را برای گشتن در سایت راحت&zwnj;تر کنید، لینکی را انتخاب و تبدیل به آیتم منو کنید.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+</module>

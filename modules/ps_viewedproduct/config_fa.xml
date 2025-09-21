@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ps_viewedproduct</name>
+    <displayName><![CDATA[بلوک محصولات بازدید شده]]></displayName>
+    <version><![CDATA[1.2.4]]></version>
+    <description><![CDATA[نمایش نوعی از نمونه&zwnj;ها در صفحات محصول با محصولات مشاهده شده.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+</module>

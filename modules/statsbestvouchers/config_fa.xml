@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>statsbestvouchers</name>
+    <displayName><![CDATA[بهترین تخفیف&zwnj;ها]]></displayName>
+    <version><![CDATA[2.0.1]]></version>
+    <description><![CDATA[آمارهای خود را غنی کنید، یک لیست از کدهای تخفیف پر استفاده را به پیشخوان اضافه کنید.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[analytics_stats]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>0</need_instance>
+</module>

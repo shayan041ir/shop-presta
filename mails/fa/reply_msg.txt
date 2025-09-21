@@ -1,0 +1,13 @@
+ 
+
+{shop_url}
+
+سلام {firstname} {lastname}،
+
+{reply}
+
+لطفا به طور مستقیم به این ایمیل پاسخ ندهید، ما آن را دریافت نخواهیم کرد. به منظور پاسخ، روی لینک ذیل کلیک کنید: {link}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

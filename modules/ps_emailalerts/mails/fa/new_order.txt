@@ -1,0 +1,43 @@
+ 
+
+{shop_url}
+
+تبريك!
+
+یک سفارش جدید در {shop_name} توسط مشتری زیر ایجاد شد: {firstname} {lastname} ({email})
+
+جزییات سفارش
+
+سفارش: {order_name} ثبت شده در {date}
+
+روش پرداخت: {payment}
+
+مرجع	محصول	قیمت واحد	تعداد	جمع قیمت   {items}
+محصول‌ها	{total_products}
+تخفیف ها	{total_discounts}
+کادوپیچی	{total_wrapping}
+ارسال	{total_shipping}
+همراه با کل مالیات	{total_tax_paid}
+مجموع پرداختی	{total_paid}
+
+حامل
+
+حامل {carrier}
+
+روش پرداخت: {payment}
+
+آدرس تحویل
+
+{delivery_block_html}
+
+آدرس صورت حساب
+
+{invoice_block_html}
+
+پیام مشتری:
+
+{message}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

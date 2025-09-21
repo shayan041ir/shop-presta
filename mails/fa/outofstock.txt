@@ -1,0 +1,19 @@
+ 
+
+{shop_url}
+
+سلام {firstname} {lastname}،
+
+از سفارش شما با مرجع {order_name} از فروشگاه {shop_name} سپاس‌گزاریم.
+
+شناسه سفارش {order_name} - پر کردن دوباره مورد نیاز است
+
+متاسفانه یک یا چند مورد در حال حاضر خارج از موجودی است و این ممکن است در تحویل کمی تاخیر ایجاد کند. لطفاً عذر خواهی ما را بپذیرید و مطمئن باشید ما تمام تلاش خود را می‌کنیم تا این مشکل را برطرف کنیم.
+
+Follow your order and download your invoice on our store, go to the [تاریخچه و جزئیات سفارش]({history_url}) section of your customer account.
+
+اگر یک حساب کاربری مهمان دارید، می‌توانید سفارش خود را از [پیگیری مهمان]({guest_tracking_url}) پیگیری کنید.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

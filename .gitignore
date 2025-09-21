@@ -1,0 +1,4 @@
+var/logs/sql_export_debug.log
+var/logs/sql_export_debug.log
+var/cache/
+var/logs/

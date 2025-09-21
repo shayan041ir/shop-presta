@@ -1,0 +1,17 @@
+ 
+
+{shop_url}
+
+سلام {firstname} {lastname}،
+
+شناسه سفارش {order_name} - سفارش لغو شد
+
+سفارش شما با مرجع {order_name} از {shop_name} توسط فروشنده لغو شد.
+
+برای اطلاعات بیشتر به حساب کاربری خود بروید.
+
+اگر یک حساب کاربری مهمان دارید، می‌توانید سفارش خود را از [پیگیری مهمان]({guest_tracking_url}) پیگیری کنید.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

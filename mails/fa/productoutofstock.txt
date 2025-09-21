@@ -1,0 +1,17 @@
+ 
+
+{shop_url}
+
+سلام {firstname} {lastname}،
+
+{product} تقریبا رو به اتمام است.
+
+در حال حاضر کمتر از {last_qty} مورد در انبار موجود است.
+
+موجودی باقی‌مانده: {qty}
+
+موجودی خود را مجدد پر کنید، به قسمت کاتالوگ > انبار در بخش مدیریت بروید.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

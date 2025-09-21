@@ -1,0 +1,21 @@
+{
+  "name": "your-vendor/ps-sql-excel-export",
+  "description": "Excel export for SQL Manager in PrestaShop",
+  "type": "prestashop-module",
+  "require": {
+    "phpoffice/phpspreadsheet": "dev-master",
+    "maennchen/zipstream-php": "^2.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "PsSqlExcelExport\\": "src/",
+      "PsSqlExcelExport\\Controllers\\": "controller/"
+    }
+  }, 
+  "config": {
+    "platform": {
+      "php": "8.1.0"
+    }
+}
+
+}

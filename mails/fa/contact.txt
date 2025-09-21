@@ -1,0 +1,19 @@
+ 
+
+{shop_url}
+
+پیامی از یکی از مشتریان {shop_name}
+
+آدرس ایمیل مشتری: {email}
+
+شناسه سفارش #:  {order_name}
+
+فایل پیوست: {attached_file}
+
+پیام مشتری:
+
+{message}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

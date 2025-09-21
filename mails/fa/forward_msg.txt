@@ -1,0 +1,17 @@
+ 
+
+{shop_url}
+
+سلام {firstname} {lastname}،
+
+خدمات مشتری - گفتگوی هدایت شده
+
+{employee} میخواست این گفتگو را به شما هدایت کند.
+
+تاریخچه گفتگو: {messages}
+
+{employee} {comment} را افزود
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

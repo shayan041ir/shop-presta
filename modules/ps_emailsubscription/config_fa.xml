@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ps_emailsubscription</name>
+    <displayName><![CDATA[اشتراک خبرنامه]]></displayName>
+    <version><![CDATA[2.8.2]]></version>
+    <description><![CDATA[هر طور که می&zwnj;خواهید با مشتریان خود در ارتباط باشید، یک فرم به صفحه اصلی فروشگاه خود اضافه کنید و به همه افراد کنجکاو اجازه دهید تا در خبرنامه شما عضو شوند.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[pricing_promotion]]></tab>
+	<confirmUninstall><![CDATA[آیا مطمئن هستید، می خواهید همه تماس هایتان را حذف کنید؟]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+</module>

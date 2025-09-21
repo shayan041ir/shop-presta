@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>statspersonalinfos</name>
+    <displayName><![CDATA[اطلاعات مشتری عضو شده]]></displayName>
+    <version><![CDATA[2.0.4]]></version>
+    <description><![CDATA[آمارهای خود را غنی کنید، اطلاعاتی درباره&zwnj;ی مشتری&zwnj;های خود اضافه کنید و در مورد آن&zwnj;ها بیشتر بدانید!]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[analytics_stats]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>0</need_instance>
+</module>

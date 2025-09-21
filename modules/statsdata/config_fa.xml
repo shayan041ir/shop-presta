@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>statsdata</name>
+    <displayName><![CDATA[کندوکاو داده های آماری]]></displayName>
+    <version><![CDATA[2.1.2]]></version>
+    <description><![CDATA[به منظور غنی کردن آمارها تا حد امکان اطلاعات جمع آوری کنید و کسب و کار خود را گسترش دهید.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[administration]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+</module>

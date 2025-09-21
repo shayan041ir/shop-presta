@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ps_distributionapiclient</name>
+    <displayName><![CDATA[Distribution API Client]]></displayName>
+    <version><![CDATA[1.1.1]]></version>
+    <description><![CDATA[دانلود و ارتقای ماژول&zwnj;های پیش فرض پرستاشاپ.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[market_place]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>1</need_instance>
+</module>

@@ -1,0 +1,19 @@
+ 
+
+{shop_url}
+
+سلام {firstname} {lastname}،
+
+شناسه سفارش {order_name} - خطای پرداخت
+
+هنگام پردازش پرداخت شما با یک خطا مواجه شدیم که برای سفارش شما با مرجع {order_name} در {shop_name} بود. لطفاً در اسرع وقت با ما تماس بگیرید.
+
+به محض پرداخت، می‌توانید منتظر ارسال باشید.
+
+Follow your order and download your invoice on our store, go to the [تاریخچه و جزئیات سفارش]({history_url}) section of your customer account.
+
+اگر یک حساب کاربری مهمان دارید، می‌توانید سفارش خود را از [پیگیری مهمان]({guest_tracking_url}) پیگیری کنید.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

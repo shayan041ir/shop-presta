@@ -1,0 +1,17 @@
+ 
+
+{shop_url}
+
+سلام {firstname} {lastname}،
+
+از خرید شما در {shop_name} سپاس‌گزاریم!
+
+سفارش شما با مرجع {order_name} ارسال شد.
+
+Follow your order and download your invoice on our store, go to the [تاریخچه و جزئیات سفارش]({history_url}) section of your customer account.
+
+اگر یک حساب کاربری مهمان دارید، می‌توانید سفارش خود را از [پیگیری مهمان]({guest_tracking_url}) پیگیری کنید.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

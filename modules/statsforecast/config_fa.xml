@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>statsforecast</name>
+    <displayName><![CDATA[چکیده آمارها]]></displayName>
+    <version><![CDATA[2.0.4]]></version>
+    <description><![CDATA[آمارهای خود را غنی کنید، یک خلاصه از همه&zwnj;ی آمارهای فعلی خود به بخش مدیریت اضافه کنید.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[administration]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+</module>

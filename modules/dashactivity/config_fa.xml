@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>dashactivity</name>
+    <displayName><![CDATA[فعالیت&zwnj;های پیشخوان]]></displayName>
+    <version><![CDATA[2.1.1]]></version>
+    <description><![CDATA[در یک نگاه بررسی کنید که در فروشگاه شما چه می&zwnj;گذرد با لیستی از KPI ها در پیشخوان.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[administration]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>1</need_instance>
+</module>

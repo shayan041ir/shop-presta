@@ -1,0 +1,17 @@
+ 
+
+{shop_url}
+
+سلام {firstname} {lastname}،
+
+شناسه سفارش {order_name} - بن تخفیف ساخته شد
+
+ما خوشحالیم که به شما اطلاع دهیم که یک بن به نام شما برای سفارش با مرجع {order_name} ساخته شده است.
+
+بن تخفیف: {voucher_num} به ارزش {voucher_amount}
+
+به منظور استفاده از آن، این بن را هنگام پرداخت کپی/پیست کنید.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

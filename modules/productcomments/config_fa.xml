@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>productcomments</name>
+    <displayName><![CDATA[نظرات محصول]]></displayName>
+    <version><![CDATA[7.0.0]]></version>
+    <description><![CDATA[اجازه به کاربرها برای ارسال نقد برای محصولات و/یا امتیازدهی به آن&zwnj;ها بر اساس معیارهای مشخص.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+</module>
