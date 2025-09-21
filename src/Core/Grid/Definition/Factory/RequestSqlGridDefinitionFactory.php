@@ -107,8 +107,8 @@ final class RequestSqlGridDefinitionFactory extends AbstractGridDefinitionFactor
                         'actions' => (new RowActionCollection())
                             ->add(
                                 (new LinkRowAction('excel_export'))
-                                    ->setName($this->trans('Export to Excel', [], 'Admin.Actions'))
-                                    ->setIcon('table_chart')
+                                    ->setName('خروجی اکسل')
+                                    ->setIcon('cloud_download')
                                     ->setOptions([
                                         'route' => 'admin_ps_sql_excel_export',
                                         'route_param_name' => 'id_sql_request',

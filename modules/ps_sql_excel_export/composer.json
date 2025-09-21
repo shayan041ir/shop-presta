@@ -1,5 +1,5 @@
 {
-  "name": "your-vendor/ps-sql-excel-export",
+  "name": "vendor/ps-sql-excel-export",
   "description": "Excel export for SQL Manager in PrestaShop",
   "type": "prestashop-module",
   "require": {
@@ -9,7 +9,7 @@
   "autoload": {
     "psr-4": {
       "PsSqlExcelExport\\": "src/",
-      "PsSqlExcelExport\\Controllers\\": "controller/"
+      "PsSqlExcelExport\\Controller\\Admin\\": "Controller/Admin/"
     }
   }, 
   "config": {

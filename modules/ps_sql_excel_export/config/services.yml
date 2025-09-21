@@ -1,5 +1,23 @@
 services:
-  ps_sql_excel_export.exporter.sql_request_excel_exporter:
-    class: 'PsSqlExcelExport\Exporter\SqlRequestExcelExporter'
-    arguments: []
+  _defaults:
+    autowire: true
+    autoconfigure: true
     public: true
+
+  PsSqlExcelExport\Controller\:
+    resource: '%kernel.project_dir%/modules/ps_sql_excel_export/Controller/'
+    public: true
+    tags: ['controller.service_arguments']
+  PsSqlExcelExport\Controller\Admin\:
+    resource: '%kernel.project_dir%/modules/ps_sql_excel_export/Controller/Admin/'
+    public: true
+    tags: ['controller.service_arguments']
+  PsSqlExcelExport\Controller\Admin\AdminPsSqlExcelExportController:
+    class: PsSqlExcelExport\Controller\Admin\AdminPsSqlExcelExportController
+    arguments:
+      $queryBus: '@prestashop.core.query_bus'
+    public: true
+    autowire: true
+    autoconfigure: true
+    tags: ['controller.service_arguments']
+  

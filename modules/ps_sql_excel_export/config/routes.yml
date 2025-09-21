@@ -1,17 +1,9 @@
-# admin_ps_sql_excel_export:
-#     path: /excel_export/{id_sql_request}
-#     methods: [GET]
-#     defaults:
-#         _controller: shop\modules\ps_sql_excel_export\Controller\admin\AdminPsSqlExcelExportController::initContent
-#         _legacy_controller: AdminPsSqlExcelExport
-#     requirements:
-#         id_sql_request: \d+
-# modules/ps_sql_excel_export/config/routes.yml
+
 admin_ps_sql_excel_export:
-  path: /excel_export/{id_sql_request}
+  path: /modules/excel_export/{id_sql_request}
   methods: [GET]
   defaults:
-    _controller: 'PsSqlExcelExport\Controller\Admin\AdminPsSqlExcelExportController::initContent'
+    _controller: 'PsSqlExcelExport\Controller\Admin\AdminPsSqlExcelExportController::export'
     _legacy_controller: 'AdminPsSqlExcelExport'
   requirements:
     id_sql_request: \d+
