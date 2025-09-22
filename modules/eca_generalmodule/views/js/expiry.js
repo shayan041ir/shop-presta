@@ -1,4 +1,4 @@
-/* modules/ps_product_expiry/views/js/expiry.js */
+/* نیازمندی: jQuery + views/lib/persianDatepicker/js/persianDatepicker.min.js */
 (function (window, $) {
   if (!$) return;
 
@@ -12,12 +12,12 @@
     return y + '-' + m + '-' + d;
   }
 
-  function init(selectorDisplay, selectorHidden) {
-    var $display = $(selectorDisplay);
-    var $hidden  = $(selectorHidden);
+  function init(displaySel, hiddenSel) {
+    var $display = $(displaySel);
+    var $hidden  = $(hiddenSel);
     if (!$display.length || !$hidden.length) return;
 
-    // مقدار اولیهٔ میلادی از hidden (DB) → نمایش جلالی/میلادی استاندارد
+    // مقدار اولیه میلادی از hidden → نمایش با اسلش
     var initialG = ($hidden.val() || '').trim();
     if (initialG) {
       var clean = normToYMDDash(initialG);
@@ -26,7 +26,7 @@
     }
 
     if (typeof $display.persianDatepicker !== 'function') {
-      // اگر پلاگین لود نیست، حداقل با تایپ دستی نرمال کن
+      // اگر پلاگین لود نبود، حداقل با تایپ دستی نرمال کن
       $display.on('input change', function () {
         $hidden.val(normToYMDDash($(this).val().trim()));
       });
@@ -34,19 +34,13 @@
     }
 
     $display.persianDatepicker({
-    showGregorianDate: true,          // انتخاب = میلادی
-    formatDate: 'YYYY/MM/DD',
-    onSelect: function () {
-        var g = $display.attr('data-gdate') || $display.val(); // 2025/09/18 یا 2025/9/18
-        // نرمال به YYYY-MM-DD
-        var p = String(g).split(/[\/\-\.]/);
-        var y = String(p[0]).padStart(4,'0');
-        var m = String(parseInt(p[1]||0,10)).padStart(2,'0');
-        var d = String(parseInt(p[2]||0,10)).padStart(2,'0');
-        $hidden.val(y + '-' + m + '-' + d);
-    }
+      showGregorianDate: true,       // انتخاب = میلادی
+      formatDate: 'YYYY/MM/DD',
+      onSelect: function () {
+        var g = $display.attr('data-gdate') || $display.val();
+        $hidden.val(normToYMDDash(g));
+      }
     });
-
 
     $display.on('input', function () {
       if (!$(this).val().trim()) {
@@ -56,14 +50,17 @@
     });
   }
 
-  // اگر IDs پیش‌فرض استفاده شده باشد، خودکار اینیت می‌شود
-  $(function () { init('#pspe_expiry_display', '#pspe_expiry_date'); });
+  // فرم‌های مدرن محصول Ajaxی رندر می‌شن؛ پس با تاخیر کوتاه تلاش کنیم
+  function tryInit() {
+    var $d = $('#pspe_expiry_display');
+    var $h = $('#pspe_expiry_date');
+    if ($d.length && $h.length) {
+      init($d, $h);
+    } else {
+      // اگر هنوز تب/Step لود نشده بود، دوباره تلاش کن
+      setTimeout(tryInit, 300);
+    }
+  }
 
-  // API اختیاری
-  window.PSPE = window.PSPE || {};
-  window.PSPE.initExpiryField = function (displayEl, hiddenEl) {
-    var dSel = displayEl && displayEl.nodeType === 1 ? displayEl : '#pspe_expiry_display';
-    var hSel = hiddenEl  && hiddenEl.nodeType  === 1 ? hiddenEl  : '#pspe_expiry_date';
-    init(dSel, hSel);
-  };
+  $(document).ready(tryInit);
 })(window, window.jQuery);
